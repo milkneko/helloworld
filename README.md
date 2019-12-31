@@ -1,4 +1,5 @@
 # helloworld
 # Gitチュートリアル
 # feature-A
-# feature-A2  
+# feature-A2 
+fix B
